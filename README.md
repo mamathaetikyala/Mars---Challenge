@@ -1,2 +1,2 @@
-# Mars---Challenge
+# Mars-Challenge
 Mars - Challenge
