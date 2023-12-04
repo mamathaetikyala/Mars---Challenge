@@ -1,10 +1,11 @@
-# Mars-Challenge
+# sql-challenge
 
 Mars-chalenge is to faimiliar with web scraping using spliter and BeautifulSoup package of python.
 
-Project Title
+# Project Title 
 
 Mars-chalenge is to get faimiliar with to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.
+
 
 ## Table of Contents
 
@@ -14,7 +15,8 @@ Mars-chalenge is to get faimiliar with to extract information via both automated
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-About
+## About
+
 The purpose of this challenge is showcase understanding of data analysis for scenarios where web scraping is needed.
 
 Objectives:
@@ -23,8 +25,7 @@ Deliverable 1: Scrape titles and preview text from Mars news articles.
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
-
-Getting Started
+## Getting Started
 
 Run data engineering files: 
 
@@ -33,12 +34,14 @@ Run data engineering files:
 2. part_2_mars_weather
 
 
-Installing
+## Installing
 
 splinter(browser), pandas, matplotlib, bs4(BeautifulSoup)
 
-Usage
+## Usage
+
 Draw analytical answers using using automated web scraping with Splinter and HTML parsing with Beautiful Soup.
 
-Contributing
+## Contributing
+
 Contributors names: Mamatha Etikyala
