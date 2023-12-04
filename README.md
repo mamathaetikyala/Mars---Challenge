@@ -1,15 +1,23 @@
 # Mars-Challenge
+
 Mars-chalenge is to faimiliar with web scraping using spliter and BeautifulSoup package of python.
 
 Project Title
+
 Mars-chalenge is to get faimiliar with to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.
 
-Table of Contents
+Table of Contents:
+
 About
+
 Getting Started
+
 Installing
+
 Usage
+
 Contributing
+
 About
 The purpose of this challenge is showcase understanding of data analysis for scenarios where web scraping is needed.
 
