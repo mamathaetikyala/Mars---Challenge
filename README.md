@@ -1,4 +1,4 @@
-# sql-challenge
+# Mars-challenge
 
 Mars-chalenge is to faimiliar with web scraping using spliter and BeautifulSoup package of python.
 
